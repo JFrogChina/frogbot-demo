@@ -1,0 +1,1 @@
+{"root":"org.jfrog.test:multi2:3.7-SNAPSHOT","nodes":{"org.jfrog.test:multi2:3.7-SNAPSHOT":{"children":["junit:junit:3.8.1"],"configurations":[],"types":["jar"]},"junit:junit:3.8.1":{"children":[],"configurations":["test"],"types":["jar"]}}}
