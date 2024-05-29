@@ -1,4 +1,4 @@
-## 1.Create gitlab project
+## 1.Create project
 ![](2024-05-08-13-17-58.png)
 ![](2024-05-08-13-18-06.png)
 
