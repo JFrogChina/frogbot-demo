@@ -24,10 +24,11 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="https.proxyHost" value="127.0.0.1"/>
     <property name="os.name" value="Mac OS X"/>
-    <property name="classworlds.conf" value="/Users/wangqjfrog.com/.jfrog/dependencies/maven/2.41.5/classworlds.conf"/>
+    <property name="classworlds.conf" value="/Users/wangqjfrog.com/Documents/tools/apache-maven-3.8.2/bin/m2.conf"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
     <property name="http.proxyPort" value="7890"/>
     <property name="java.library.path" value="/Users/wangqjfrog.com/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+    <property name="maven.conf" value="/Users/wangqjfrog.com/Documents/tools/apache-maven-3.8.2/conf"/>
     <property name="jdk.debug" value="release"/>
     <property name="java.class.version" value="61.0"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
@@ -38,14 +39,12 @@
     <property name="user.timezone" value="Asia/Shanghai"/>
     <property name="file.encoding" value="UTF-8"/>
     <property name="java.specification.version" value="17"/>
-    <property name="buildInfoConfig.artifactoryResolutionEnabled" value="true"/>
-    <property name="buildInfoConfig.propertiesFile" value="/var/folders/wr/gv2153sn7yqdn9_90yx7w3gm0000gq/T/jfrog/properties/extractorProperties3809761175"/>
     <property name="java.class.path" value="/Users/wangqjfrog.com/Documents/tools/apache-maven-3.8.2/boot/plexus-classworlds-2.6.0.jar"/>
     <property name="user.name" value="wangqjfrog.com"/>
     <property name="socksProxyHost" value="127.0.0.1"/>
     <property name="java.vm.specification.version" value="17"/>
     <property name="sun.arch.data.model" value="64"/>
-    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher deploy"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher package"/>
     <property name="java.home" value="/Users/wangqjfrog.com/Library/Java/JavaVirtualMachines/corretto-17.0.7-1/Contents/Home"/>
     <property name="user.language" value="en"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
@@ -56,7 +55,6 @@
     <property name="java.vendor" value="Amazon.com Inc."/>
     <property name="sun.stderr.encoding" value="UTF-8"/>
     <property name="maven.home" value="/Users/wangqjfrog.com/Documents/tools/apache-maven-3.8.2"/>
-    <property name="m3plugin.lib" value="/Users/wangqjfrog.com/.jfrog/dependencies/maven/2.41.5"/>
     <property name="file.separator" value="/"/>
     <property name="java.version.date" value="2023-04-18"/>
     <property name="java.vendor.url.bug" value="https://github.com/corretto/corretto-17/issues/"/>
