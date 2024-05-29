@@ -62,6 +62,7 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-war-plugin</artifactId>
+                <version>3.3.2</version>
                 <configuration>
                     <archive>
                         <addMavenDescriptor>false</addMavenDescriptor>
@@ -74,12 +75,12 @@
     <repository>
         <id>central</id>
         <name>jfrogchina.com-releases</name>
-        <url>http://39.106.70.224:8082/artifactory/shteam4-loko-maven-release-local/</url>
+        <url>https://demo.jfrogchina.com:443/artifactory/alex-maven/</url>
     </repository>
     <snapshotRepository>
         <id>snapshots</id>
         <name>jfrogchina.com-snapshots</name>
-        <url>http://39.106.70.224:8082/artifactory/shteam4-loko-maven-snapshot-local/</url>
+        <url>https://demo.jfrogchina.com:443/artifactory/alex-maven/</url>
     </snapshotRepository>
 </distributionManagement>
 </project>
